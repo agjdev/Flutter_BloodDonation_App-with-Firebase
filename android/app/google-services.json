@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660863509111",
+    "project_id": "fluttertut-4ec43",
+    "storage_bucket": "fluttertut-4ec43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660863509111:android:cbf62cf3b25f58d812dc72",
+        "android_client_info": {
+          "package_name": "com.bloodapp.bloodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660863509111-1sbiu0intd13mhlor86hidnsldd9cnl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi9zgebciQNqmAwGwU3rrFt5riC8ToW4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660863509111-1sbiu0intd13mhlor86hidnsldd9cnl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
